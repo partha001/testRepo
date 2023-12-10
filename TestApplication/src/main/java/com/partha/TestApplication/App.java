@@ -10,6 +10,7 @@ public class App
     {
 
         System.out.println( "reset000" );
+        System.out.println("master001");
     }
 
 }
